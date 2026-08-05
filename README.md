@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s.zuris/)
 
-## Tecnologias que eu utilizo no meu dia
+## Tecnologias que eu uso no meu dia
 
 <Div style="display: inline_block"<br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
